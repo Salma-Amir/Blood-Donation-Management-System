@@ -1,0 +1,88 @@
+.logo {
+  height: 80px;
+}
+.eli {
+  height: 750px;
+}
+#s {
+  margin-bottom: 10px;
+}
+.cc {
+  position: absolute;
+  left: 0px;
+  right: 650px;
+  top: 300px;
+}
+.bd {
+  color: rgb(150, 13, 13);
+}
+.crd {
+  background-color: #dee2e6;
+}
+.btnc {
+  background-color: #ffffff;
+}
+.loc {
+  /* background-color: #1b4332; */
+  background-color: rgb(241, 239, 239);
+}
+.don {
+  /* background-color: #9b2226; */
+}
+.arabic {
+  direction: rtl;
+}
+.social {
+  background-color: rgb(0, 155, 155);
+}
+.carousel {
+  background-color: rgb(255, 251, 251);
+}
+#eligiblity {
+  background-color: rgb(241, 239, 239);
+}
+.eli-list {
+  font-size: 18px;
+}
+.social-icons img {
+  width: 60px;
+  transition: 0.5s;
+}
+.social-icons a:hover img {
+  transform: translateY(-10px);
+}
+.border-right {
+  border-right: 0.1px solid rgb(255, 255, 255);
+}
+.wave {
+  width: 100%;
+}
+.navbar a.current,
+.navbar a:hover {
+  font-weight: bold;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 2px;
+}
+::-webkit-scrollbar-track {
+  background-color: #f6f6f6;
+  box-shadow: 0 0 10px #ddd inset;
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgba(151, 0, 0, 0.5);
+  border-radius: 20px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgb(124, 2, 2);
+}
+.vl {
+  border-left: 2px solid rgba(68, 68, 68, 0.418);
+  height: 28px;
+}
+#eligiblity {
+  /* background: linear-gradient(to right, rgba(241, 239, 239, 0.959), #ffffff); */
+  /* background: linear-gradient(to right, #70e1f5, #ffd194); */
+  background: linear-gradient(to top, #ffffff, #e3e2e9);
+}
